@@ -8,6 +8,8 @@
   },
   "author": "Lorenzo Eufemi",
   "license": "ISC",
-  "description": ""
-  
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }

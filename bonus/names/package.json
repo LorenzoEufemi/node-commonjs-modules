@@ -1,13 +1,13 @@
 {
   "name": "commonjs-modules",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "names.js",
+  "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "dev": "node --watch app.js"
+    "start": "node names.js",
+    "dev": "node --watch names.js"
   },
   "author": "Lorenzo Eufemi",
   "license": "ISC",
   "description": ""
-  
 }

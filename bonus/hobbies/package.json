@@ -1,13 +1,13 @@
 {
   "name": "commonjs-modules",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "hobbies.js",
+  "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "dev": "node --watch app.js"
+    "start": "node hobbies.js",
+    "dev": "node --watch hobbies.js"
   },
   "author": "Lorenzo Eufemi",
   "license": "ISC",
   "description": ""
-  
 }
