@@ -14,6 +14,7 @@ function result (){
 
 import chalk from "chalk";
 
-console.log(chalk.blue(result()))
-console.log("ciao");
+console.log(result());
+
+console.log(chalk.red("ciao"));
 
